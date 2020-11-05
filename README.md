@@ -1,2 +1,2 @@
 # Bloque1
-Desafios del curso de JavaScript2020
+Desafíos/ejercicios/cuestionarios del curso de JavaScript2020
